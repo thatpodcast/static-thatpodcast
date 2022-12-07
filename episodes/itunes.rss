@@ -1,0 +1,1145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <atom:link href="https://thatpodcast.io/itunes.rss" rel="self" type="application/rss+xml"/>
+        <title>That Podcast with Beau and Dave</title>
+        <link>http://thatpodcast.io</link>
+        <language>en-GB</language>
+        <copyright>2022 That Podcast, Beau Simensen, and Dave Marshall</copyright>
+        <itunes:subtitle>Beau and Dave talking about life as dads, programmers, and entrepreneurs.</itunes:subtitle>
+        <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+        <itunes:keywords>php,development,software,entrepreneurship</itunes:keywords>
+        <itunes:category text="Technology">
+            <itunes:category text="Tech News"/>
+        </itunes:category>
+        <itunes:summary>
+        </itunes:summary>
+        <description>Beau and Dave talking about life as dads, programmers, and entrepreneurs.</description>
+        <itunes:owner>
+            <itunes:name>Beau Simensen &amp; Dave Marshall</itunes:name>
+            <itunes:email>hello@thatpodcast.io</itunes:email>
+        </itunes:owner>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://thatpodcast.io/build/images/that-podcast-cover-photo.d9a72d20.jpg"/>
+                    <item>
+                <title>Episode 66: The First One in 2020</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>It&#039;s been awhile!</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/42584242-8e1e-4a8e-af39-01a530ecff71/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/42584242-8e1e-4a8e-af39-01a530ecff71/media/that-podcast-episode-66-the-first-one-in-2020.mp3" length="" type="audio/mp3"/>
+                <guid>42584242-8e1e-4a8e-af39-01a530ecff71</guid>
+                <pubDate>Fri, 30 Oct 2020 16:00:00 +0000</pubDate>
+                <itunes:duration>00:52:10</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-66-the-first-one-in-2020</link>
+            </item>
+                    <item>
+                <title>Episode 65: The One with the Book, the Axe, and the Laravel Training</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because we&#039;ve been busy this summer...</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/6fae78c5-feba-49d3-8025-33544f28b99a/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/6fae78c5-feba-49d3-8025-33544f28b99a/media/that-podcast-episode-65-the-one-with-the-book-the-axe-and-the-laravel-training.mp3" length="" type="audio/mp3"/>
+                <guid>6fae78c5-feba-49d3-8025-33544f28b99a</guid>
+                <pubDate>Mon, 04 Nov 2019 08:00:00 +0000</pubDate>
+                <itunes:duration>00:29:17</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-65-the-one-with-the-book-the-axe-and-the-laravel-training</link>
+            </item>
+                    <item>
+                <title>Episode 64: The One Where We Find Remote Client Work with Amber Diehl</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Setting out and Finding Gigs Can Be a Ton of Work</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<ul><li><a href="https://www.linkedin.com/in/amberdiehl/">Amber Diehl</a></li></ul><div><br></div>]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/315e9e9d-443d-400d-b022-b4df5d07c4ec/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/315e9e9d-443d-400d-b022-b4df5d07c4ec/media/that-podcast-episode-64-the-one-where-we-find-remote-client-work-with-amber-diehl.mp3" length="" type="audio/mp3"/>
+                <guid>315e9e9d-443d-400d-b022-b4df5d07c4ec</guid>
+                <pubDate>Mon, 19 Aug 2019 06:00:00 +0000</pubDate>
+                <itunes:duration>00:36:07</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-64-the-one-where-we-find-remote-client-work-with-amber-diehl</link>
+            </item>
+                    <item>
+                <title>Episode 63: The One Where We Talk with Benjamin Eberlei about Tideways</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because We Enjoy Learning How SaaS Projects Tick</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<ul><li><a href="https://twitter.com/beberlei">Benjamin Eberlei</a></li><li><a href="https://tideways.io/">Tideways</a></li></ul><div><br></div>]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/d5cbc8d7-49c8-4bf0-a2e6-206359912cca/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/d5cbc8d7-49c8-4bf0-a2e6-206359912cca/media/that-podcast-episode-63-the-one-where-we-talk-with-benjamin-eberlei-about-tideways.mp3" length="" type="audio/mp3"/>
+                <guid>d5cbc8d7-49c8-4bf0-a2e6-206359912cca</guid>
+                <pubDate>Mon, 29 Jul 2019 06:00:00 +0000</pubDate>
+                <itunes:duration>00:55:24</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-63-the-one-where-we-talk-with-benjamin-eberlei-about-tideways</link>
+            </item>
+                    <item>
+                <title>Episode 62: The One Where We Talk about Command Buses</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>And Dave&#039;s Experiments Working with Wood</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<ul><li><a href="https://www.youtube.com/user/stevinmarin">Woodworking for Mere Mortals</a></li></ul><div><br></div>]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/2072fba6-121a-4929-bf69-1ebc87f4176c/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/2072fba6-121a-4929-bf69-1ebc87f4176c/media/that-podcast-episode-62-the-one-where-we-talk-about-command-buses.mp3" length="" type="audio/mp3"/>
+                <guid>2072fba6-121a-4929-bf69-1ebc87f4176c</guid>
+                <pubDate>Mon, 15 Jul 2019 06:00:00 +0000</pubDate>
+                <itunes:duration>00:57:24</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-62-the-one-where-we-talk-about-command-buses</link>
+            </item>
+                    <item>
+                <title>Episode 61: The One Where We Discuss Symfony&#039;s HTTP Client with Nicolas Grekas</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Wait, Is It Haytch or Aytch?</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<ul><li>Nicolas Grekas</li><li><a href="https://twitter.com/nicolasgrekas">@nicolasgrekas</a></li><li><a href="https://github.com/nicolas-grekas">https://github.com/nicolas-grekas</a></li></ul><div><br></div>]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/27e39da8-c121-4e48-b3a9-1ec8898c091e/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/27e39da8-c121-4e48-b3a9-1ec8898c091e/media/that-podcast-episode-61-the-one-where-we-discuss-symfony-s-http-client-with-nicolas-grekas.mp3" length="" type="audio/mp3"/>
+                <guid>27e39da8-c121-4e48-b3a9-1ec8898c091e</guid>
+                <pubDate>Mon, 08 Jul 2019 10:00:00 +0000</pubDate>
+                <itunes:duration>00:37:25</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-61-the-one-where-we-discuss-symfony-s-http-client-with-nicolas-grekas</link>
+            </item>
+                    <item>
+                <title>Episode 60: The One Where We Talk Twig, Drupal, and Sculpin with Oliver Davies</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>With a little Tailwind CSS and Symfony</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<ul><li>Oliver Davies</li><li><a href="https://twitter.com/opdavies">@opdavies</a></li><li><a href="https://www.oliverdavies.uk/">https://www.oliverdavies.uk/</a></li></ul><div><br></div>]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/e349e2a6-fc07-4c59-99f3-3d832a732862/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/e349e2a6-fc07-4c59-99f3-3d832a732862/media/that-podcast-episode-60-the-one-where-we-talk-twig-drupal-and-sculpin-with-oliver-davies.mp3" length="" type="audio/mp3"/>
+                <guid>e349e2a6-fc07-4c59-99f3-3d832a732862</guid>
+                <pubDate>Mon, 01 Jul 2019 10:00:00 +0000</pubDate>
+                <itunes:duration>00:39:53</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-60-the-one-where-we-talk-twig-drupal-and-sculpin-with-oliver-davies</link>
+            </item>
+                    <item>
+                <title>Episode 59: The First One in 2019</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Where we talk about Dave&#039;s forks</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<ul><li><a href="https://www.youtube.com/watch?v=EU4tARJ-AP0">PHP Town Hall - Symfony Round Up</a></li><li><a href="https://matthewtrask.net/">Matthew Trask</a></li><li><a href="http://amandafolson.net">Amanda Folson</a></li><li><a href="https://twitter.com/weaverryan">Ryan Weaver</a></li><li><a href="https://symfony.com/roadmap">Symfony Roadmap</a></li></ul><div><br></div>]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/26fe507b-3bbf-4d6f-bc93-5a970f7c6013/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/26fe507b-3bbf-4d6f-bc93-5a970f7c6013/media/that-podcast-episode-59-the-first-one-in-2019.mp3" length="" type="audio/mp3"/>
+                <guid>26fe507b-3bbf-4d6f-bc93-5a970f7c6013</guid>
+                <pubDate>Tue, 23 Apr 2019 10:00:00 +0000</pubDate>
+                <itunes:duration>00:37:55</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-59-the-first-one-in-2019</link>
+            </item>
+                    <item>
+                <title>Episode 58: The One with All the Self-care</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>With Eileen Webb</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/af262ede-6065-43ce-81be-e97b909ebfb9/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/af262ede-6065-43ce-81be-e97b909ebfb9/media/that-podcast-episode-58-the-one-with-all-the-self-care.mp3" length="" type="audio/mp3"/>
+                <guid>af262ede-6065-43ce-81be-e97b909ebfb9</guid>
+                <pubDate>Tue, 18 Dec 2018 18:00:00 +0000</pubDate>
+                <itunes:duration>00:41:06</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-58-the-one-with-all-the-self-care</link>
+            </item>
+                    <item>
+                <title>Episode 57: The One Where We Talk about Mental Health with Jenna Quindica</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because mental health awareness is important...</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/0c8f3c86-babf-4491-956f-6d584ff97ec6/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/0c8f3c86-babf-4491-956f-6d584ff97ec6/media/that-podcast-episode-57-the-one-where-we-talk-about-mental-health-with-jenna-quindica.mp3" length="" type="audio/mp3"/>
+                <guid>0c8f3c86-babf-4491-956f-6d584ff97ec6</guid>
+                <pubDate>Tue, 11 Dec 2018 10:00:00 +0000</pubDate>
+                <itunes:duration>00:35:09</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-57-the-one-where-we-talk-about-mental-health-with-jenna-quindica</link>
+            </item>
+                    <item>
+                <title>Episode 56: The One Where We Talk about Astrocasts</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because Beau has been busy...</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/9c360eb6-a04a-4d7f-b470-7eea67b6b7d3/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/9c360eb6-a04a-4d7f-b470-7eea67b6b7d3/media/that-podcast-episode-56-the-one-where-we-talk-about-astrocasts.mp3" length="" type="audio/mp3"/>
+                <guid>9c360eb6-a04a-4d7f-b470-7eea67b6b7d3</guid>
+                <pubDate>Sun, 02 Dec 2018 10:00:00 +0000</pubDate>
+                <itunes:duration>00:45:27</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-56-the-one-where-we-talk-about-astrocasts</link>
+            </item>
+                    <item>
+                <title>Episode 55: The One with Nicolas Steenhout and #a11y</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because accessibility is where it is at</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/25f854ec-5423-4dbb-8cf5-c5f56f6557d0/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/25f854ec-5423-4dbb-8cf5-c5f56f6557d0/media/that-podcast-episode-55-the-one-with-nicolas-steenhout-and-a11y.mp3" length="" type="audio/mp3"/>
+                <guid>25f854ec-5423-4dbb-8cf5-c5f56f6557d0</guid>
+                <pubDate>Tue, 27 Nov 2018 16:00:00 +0000</pubDate>
+                <itunes:duration>00:42:36</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-55-the-one-with-nicolas-steenhout-and-a11y</link>
+            </item>
+                    <item>
+                <title>Episode 54: The One with Event Sourcing and Emily Stamey</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Hey, boss...</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/3d6715d1-43bb-4194-adb4-d09ecf6b0c22/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/3d6715d1-43bb-4194-adb4-d09ecf6b0c22/media/that-podcast-episode-54-the-one-with-event-sourcing-and-emily-stamey.mp3" length="20853008" type="audio/mp3"/>
+                <guid>3d6715d1-43bb-4194-adb4-d09ecf6b0c22</guid>
+                <pubDate>Thu, 18 Oct 2018 08:38:00 +0000</pubDate>
+                <itunes:duration>00:43:16</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-54-the-one-with-event-sourcing-and-emily-stamey</link>
+            </item>
+                    <item>
+                <title>Episode 53: The One Where Summer Got Away from Us</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/f29a6e1a-6592-4dc4-ba5f-0b69a381c7c0/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/f29a6e1a-6592-4dc4-ba5f-0b69a381c7c0/media/that-podcast-episode-53-the-one-where-summer-got-away-from-us.mp3" length="13551166" type="audio/mp3"/>
+                <guid>f29a6e1a-6592-4dc4-ba5f-0b69a381c7c0</guid>
+                <pubDate>Wed, 03 Oct 2018 19:23:00 +0000</pubDate>
+                <itunes:duration>00:28:03</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-53-the-one-where-summer-got-away-from-us</link>
+            </item>
+                    <item>
+                <title>Episode 52: geocod.io with Michele and Mathias</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because building a product out of something you need is awesome</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Michele and Mathias from <a href="https://www.geocod.io/">Geocodio</a> join us to talk about their business.
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/6da6aac4-654e-42a3-89d7-8ae0410c583a/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/6da6aac4-654e-42a3-89d7-8ae0410c583a/media/that-podcast-episode-52-geocod-io-with-michele-and-mathias.mp3" length="22283414" type="audio/mp3"/>
+                <guid>6da6aac4-654e-42a3-89d7-8ae0410c583a</guid>
+                <pubDate>Thu, 27 Sep 2018 13:26:00 +0000</pubDate>
+                <itunes:duration>00:46:15</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-52-geocod-io-with-michele-and-mathias</link>
+            </item>
+                    <item>
+                <title>Episode 51: The One with JMac</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Shift and BaseCode and stuff.</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau catches up with JMac about Shift and BaseCode.
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/ff602315-6a36-4d20-9093-b1d7661cfab0/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/ff602315-6a36-4d20-9093-b1d7661cfab0/media/that-podcast-episode-51-the-one-with-jmac.mp3" length="17508416" type="audio/mp3"/>
+                <guid>ff602315-6a36-4d20-9093-b1d7661cfab0</guid>
+                <pubDate>Thu, 13 Sep 2018 00:02:00 +0000</pubDate>
+                <itunes:duration>00:36:18</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-51-the-one-with-jmac</link>
+            </item>
+                    <item>
+                <title>Episode 50: The One Where We Talk to Shawn about Event Sourcery, CQRS, Event Sourcing and GDPR</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because it&#039;s about time we&#039;re leaving the wild west</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<div>Because it's about time we're leaving the wild west&nbsp;</div>]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/6f142201-1aa2-4312-8ac6-c732a318aba8/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/6f142201-1aa2-4312-8ac6-c732a318aba8/media/that-podcast-episode-50-the-one-where-we-talk-to-shawn-about-event-sourcery-cqrs-event-sourcing-and-gdpr.mp3" length="22055255" type="audio/mp3"/>
+                <guid>6f142201-1aa2-4312-8ac6-c732a318aba8</guid>
+                <pubDate>Thu, 24 May 2018 15:52:00 +0000</pubDate>
+                <itunes:duration>00:45:46</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-50-the-one-where-we-talk-to-shawn-about-event-sourcery-cqrs-event-sourcing-and-gdpr</link>
+            </item>
+                    <item>
+                <title>Episode 49: The One Where the Events Are the Sauce and Not the Meat</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because that&#039;s how EventSauce.io rolls.</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<div>Beau and Dave discuss EventSauce (eventsauce.io) with Frank de Jonge.&nbsp;</div>]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/7d40bccf-e162-4a23-9669-b592e10455a6/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/7d40bccf-e162-4a23-9669-b592e10455a6/media/that-podcast-episode-49-the-one-where-the-events-are-the-sauce-and-not-the-meat.mp3" length="23643681" type="audio/mp3"/>
+                <guid>7d40bccf-e162-4a23-9669-b592e10455a6</guid>
+                <pubDate>Fri, 16 Mar 2018 03:17:00 +0000</pubDate>
+                <itunes:duration>00:49:05</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-49-the-one-where-the-events-are-the-sauce-and-not-the-meat</link>
+            </item>
+                    <item>
+                <title>Episode 48: The One Without All the CSS</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Except for that bit in shame.css</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave discuss Tailwind CSS with Adam Wathan and Jonathan Reinink.
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/c5bbb87d-393e-471f-b030-90e77eb8c3de/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/c5bbb87d-393e-471f-b030-90e77eb8c3de/media/that-podcast-episode-48-the-one-without-all-the-css.mp3" length="27670085" type="audio/mp3"/>
+                <guid>c5bbb87d-393e-471f-b030-90e77eb8c3de</guid>
+                <pubDate>Wed, 28 Feb 2018 23:41:00 +0000</pubDate>
+                <itunes:duration>00:57:28</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-48-the-one-without-all-the-css</link>
+            </item>
+                    <item>
+                <title>Episode 47: The One Where Silex Is Dead</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Beau and Dave discuss the death of Silex with Kevin Boyd.</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave discuss the death of Silex with Kevin Boyd.
+
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/9e563cf9-7583-4998-b906-bd483688a16d/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/9e563cf9-7583-4998-b906-bd483688a16d/media/that-podcast-episode-47-the-one-where-silex-is-dead.mp3" length="20546175" type="audio/mp3"/>
+                <guid>9e563cf9-7583-4998-b906-bd483688a16d</guid>
+                <pubDate>Thu, 15 Feb 2018 11:02:00 +0000</pubDate>
+                <itunes:duration>00:42:37</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-47-the-one-where-silex-is-dead</link>
+            </item>
+                    <item>
+                <title>Episode 46: The One with the Last Jedi</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because we both love Star Wars.</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave discuss Star Wars: The Last Jedi.
+
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/33f6a11a-887f-4ddd-b0c5-2118e1db562c/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/33f6a11a-887f-4ddd-b0c5-2118e1db562c/media/that-podcast-episode-46-the-one-with-the-last-jedi.mp3" length="23150063" type="audio/mp3"/>
+                <guid>33f6a11a-887f-4ddd-b0c5-2118e1db562c</guid>
+                <pubDate>Wed, 07 Feb 2018 22:23:00 +0000</pubDate>
+                <itunes:duration>00:48:03</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-46-the-one-with-the-last-jedi</link>
+            </item>
+                    <item>
+                <title>Episode 45: The One Where We Talk about PSR-15 Again</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Some of this got solved</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave discuss the current state of PHP FIG's HTTP Handler PSR.
+
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/6cbe9f76-b5f8-4271-9532-18f3f63a35ff/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/6cbe9f76-b5f8-4271-9532-18f3f63a35ff/media/that-podcast-episode-45-the-one-where-we-talk-about-psr-15-again.mp3" length="19213237" type="audio/mp3"/>
+                <guid>6cbe9f76-b5f8-4271-9532-18f3f63a35ff</guid>
+                <pubDate>Wed, 31 Jan 2018 23:16:00 +0000</pubDate>
+                <itunes:duration>00:39:51</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-45-the-one-where-we-talk-about-psr-15-again</link>
+            </item>
+                    <item>
+                <title>Episode 44: The One Where We Manage Products</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Christophe Dujarric shares his experience with Product Management</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Christophe Dujarric joins Beau and Dave to talk about Product Management.
+
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/445e4e52-252e-4207-bca9-99b1d1243517/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/445e4e52-252e-4207-bca9-99b1d1243517/media/that-podcast-episode-44-the-one-where-we-manage-products.mp3" length="25588695" type="audio/mp3"/>
+                <guid>445e4e52-252e-4207-bca9-99b1d1243517</guid>
+                <pubDate>Wed, 24 Jan 2018 22:45:00 +0000</pubDate>
+                <itunes:duration>00:53:08</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-44-the-one-where-we-manage-products</link>
+            </item>
+                    <item>
+                <title>Episode 43: The one where we Marvel at Sketch</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Beau and Dave talk about design and prototyping workflows.</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave talk about design and prototyping workflows.
+
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/9a1d2532-75bd-4a7d-bc78-2062f6b5d8e8/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/9a1d2532-75bd-4a7d-bc78-2062f6b5d8e8/media/that-podcast-episode-43-the-one-where-we-marvel-at-sketch.mp3" length="22687984" type="audio/mp3"/>
+                <guid>9a1d2532-75bd-4a7d-bc78-2062f6b5d8e8</guid>
+                <pubDate>Wed, 17 Jan 2018 22:37:00 +0000</pubDate>
+                <itunes:duration>00:47:06</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-43-the-one-where-we-marvel-at-sketch</link>
+            </item>
+                    <item>
+                <title>Episode 42: The one with the CPU vulnerabilities</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Meltdown and Spectre, oh my!</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Meltdown and Spectre, oh my!
+
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/faa60952-001b-4317-946f-9f0855583f78/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/faa60952-001b-4317-946f-9f0855583f78/media/that-podcast-episode-42-the-one-with-the-cpu-vulnerabilities.mp3" length="21029661" type="audio/mp3"/>
+                <guid>faa60952-001b-4317-946f-9f0855583f78</guid>
+                <pubDate>Thu, 11 Jan 2018 04:26:00 +0000</pubDate>
+                <itunes:duration>00:43:38</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-42-the-one-with-the-cpu-vulnerabilities</link>
+            </item>
+                    <item>
+                <title>Episode 41: SAD</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Health and Technology</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Health and Technology
+
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/71ff7677-d47c-43ee-afe0-b61a74313fe4/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/71ff7677-d47c-43ee-afe0-b61a74313fe4/media/that-podcast-episode-41-sad.mp3" length="18927549" type="audio/mp3"/>
+                <guid>71ff7677-d47c-43ee-afe0-b61a74313fe4</guid>
+                <pubDate>Mon, 12 Jun 2017 02:32:00 +0000</pubDate>
+                <itunes:duration>00:39:15</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-41-sad</link>
+            </item>
+                    <item>
+                <title>Episode 40: Flex</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>The Future&#039;s So Bright, Dave Gotta Wear Blade&#039;s Shades</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<div>Beau and Dave pick up after a two month break to talk about Symfony Flex and Alexa.&nbsp;</div>]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/8cfc83bf-92c0-4085-8459-50355f8bcc16/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/8cfc83bf-92c0-4085-8459-50355f8bcc16/media/that-podcast-episode-40-flex.mp3" length="11555560" type="audio/mp3"/>
+                <guid>8cfc83bf-92c0-4085-8459-50355f8bcc16</guid>
+                <pubDate>Fri, 05 May 2017 03:47:00 +0000</pubDate>
+                <itunes:duration>00:23:53</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-40-flex</link>
+            </item>
+                    <item>
+                <title>Episode 39: Public Relations</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>What&#039;s in a name?</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<div>Beau and Dave discuss skiing, skateboarding, Rebekah's book launch, Bullet Journaling, Rachel Nabor's Practical Cartooning for Technical Folk, Beau getting back into DJing, Dave dabbling in Bitcoin bot trading, Logan, and multiuser SaaS.&nbsp;</div>]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/d233f2d8-1d69-4c3b-926e-1faf4ea67f37/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/d233f2d8-1d69-4c3b-926e-1faf4ea67f37/media/that-podcast-episode-39-public-relations.mp3" length="15688519" type="audio/mp3"/>
+                <guid>d233f2d8-1d69-4c3b-926e-1faf4ea67f37</guid>
+                <pubDate>Thu, 09 Mar 2017 03:37:00 +0000</pubDate>
+                <itunes:duration>00:32:30</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-39-public-relations</link>
+            </item>
+                    <item>
+                <title>Episode 38: Bullet</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Sunshine PHP, Bullet Journaling, Mockery and Symfony Experiments.</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave discuss Sunshine PHP, Bullet Journaling, Mockery and Symfony Experiments.
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/405881e2-8d6a-4105-a637-3870f866dab7/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/405881e2-8d6a-4105-a637-3870f866dab7/media/that-podcast-episode-38-bullet.mp3" length="15800961" type="audio/mp3"/>
+                <guid>405881e2-8d6a-4105-a637-3870f866dab7</guid>
+                <pubDate>Fri, 17 Feb 2017 00:47:00 +0000</pubDate>
+                <itunes:duration>00:32:45</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-38-bullet</link>
+            </item>
+                    <item>
+                <title>Episode 37: Sold!</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Yes, Beau sounds like he is under water...</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave discuss time bugs, companies being sold and AppleApp Store and Google Play store tax on "digital sales." They also talk about recent news in Symfony. This episode is the first edited by Beau. Be gentle.
+
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/3608a516-ea1f-4b7a-82f9-e7a849dec04e/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/3608a516-ea1f-4b7a-82f9-e7a849dec04e/media/that-podcast-episode-37-sold.mp3" length="21795341" type="audio/mp3"/>
+                <guid>3608a516-ea1f-4b7a-82f9-e7a849dec04e</guid>
+                <pubDate>Wed, 01 Feb 2017 07:00:00 +0000</pubDate>
+                <itunes:duration>00:45:13</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-37-sold</link>
+            </item>
+                    <item>
+                <title>Episode 36: Things</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>A potpourri of flavor!</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave catch up on SensioLab's latest announcements, The Epic Guide to
+Bootstrapping your SaaS startup from scratch by yourself, Indie Hackers, and discuss convenient hosting
+for lots of small sites and apps.
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/2ca94e5c-d7e3-4556-9c72-749b2fc077bc/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/2ca94e5c-d7e3-4556-9c72-749b2fc077bc/media/that-podcast-episode-36-things.mp3" length="26850718" type="audio/mp3"/>
+                <guid>2ca94e5c-d7e3-4556-9c72-749b2fc077bc</guid>
+                <pubDate>Fri, 13 Jan 2017 14:00:00 +0000</pubDate>
+                <itunes:duration>00:44:37</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-36-things</link>
+            </item>
+                    <item>
+                <title>Episode 35.5: Rogue One</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Here be Spoilers</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave talk about Rogue One: A Star Wars Story, here be spoilers.
+
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/9f8f6c32-0a48-4566-87df-ff3ae8594d55/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/9f8f6c32-0a48-4566-87df-ff3ae8594d55/media/that-podcast-episode-35-5-rogue-one.mp3" length="17378701" type="audio/mp3"/>
+                <guid>9f8f6c32-0a48-4566-87df-ff3ae8594d55</guid>
+                <pubDate>Fri, 30 Dec 2016 16:34:00 +0000</pubDate>
+                <itunes:duration>00:28:50</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-35-5-rogue-one</link>
+            </item>
+                    <item>
+                <title>Episode 35: Stuff</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>The kind of show we do when we&#039;ve not done one for a while...</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<div>Beau and Dave talk about stuff, including a voicemail from @jwage, generating ideas and discussion on twitter, new services we've seen or are using, the difference in number of attendees between European and US conferences, bucket list type things, what we're watching and planning on watching on TV.&nbsp;</div>]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/2c15401a-7caa-4339-a83b-cbd956a2bf20/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/2c15401a-7caa-4339-a83b-cbd956a2bf20/media/that-podcast-episode-35-stuff.mp3" length="30931904" type="audio/mp3"/>
+                <guid>2c15401a-7caa-4339-a83b-cbd956a2bf20</guid>
+                <pubDate>Mon, 19 Dec 2016 13:52:00 +0000</pubDate>
+                <itunes:duration>00:51:26</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-35-stuff</link>
+            </item>
+                    <item>
+                <title>Episode 34: Say What?</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Hey, bro.</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave talk about Beau's trip to the last True North PHP conference, trolls, writing and social media automation.
+
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/35340ffa-94f7-4d8d-a9c6-d54dc72b8784/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/35340ffa-94f7-4d8d-a9c6-d54dc72b8784/media/that-podcast-episode-34-say-what.mp3" length="22741726" type="audio/mp3"/>
+                <guid>35340ffa-94f7-4d8d-a9c6-d54dc72b8784</guid>
+                <pubDate>Wed, 16 Nov 2016 10:38:00 +0000</pubDate>
+                <itunes:duration>00:37:47</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-34-say-what</link>
+            </item>
+                    <item>
+                <title>Episode 33: Lag</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>It was kinda like telling a UDP joke</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave somehow manage to form a coherent conversation despite laggy internet, about dynamic sharing images, Beau's application for Global Entry, overlays and Mailchimp automation, profilers like Blackfire and XHProf, and Beau having a new microphone.
+
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/01af1307-fa27-482d-b0c5-235ed6dc7e3d/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/01af1307-fa27-482d-b0c5-235ed6dc7e3d/media/that-podcast-episode-33-lag.mp3" length="23640598" type="audio/mp3"/>
+                <guid>01af1307-fa27-482d-b0c5-235ed6dc7e3d</guid>
+                <pubDate>Fri, 28 Oct 2016 10:47:00 +0000</pubDate>
+                <itunes:duration>00:39:16</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-33-lag</link>
+            </item>
+                    <item>
+                <title>Episode 32: Revival</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Beau and Dave are back</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[
+Beau and Dave are back. Beau is back in the states. Dave has nothing
+interesting to report. We talk a little about what we've been up to and touch on
+getting started doing conference talks.
+
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/89c84187-5016-43b9-8889-fe514f0aaf55/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/89c84187-5016-43b9-8889-fe514f0aaf55/media/that-podcast-episode-32-revival.mp3" length="44096706" type="audio/mp3"/>
+                <guid>89c84187-5016-43b9-8889-fe514f0aaf55</guid>
+                <pubDate>Fri, 14 Oct 2016 08:47:00 +0000</pubDate>
+                <itunes:duration>01:13:22</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-32-revival</link>
+            </item>
+                    <item>
+                <title>Episode 31: Middlewares!</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>All of this will get solved</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave recap Episode 20 from last year, discussing the PHP FIG PSR-7 middlewares proposal.
+
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/something-very-unique/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/something-very-unique/media/that-podcast-episode-31-middlewares.mp3" length="26376143" type="audio/mp3"/>
+                <guid>SOMETHING_VERY_UNIQUE</guid>
+                <pubDate>Thu, 19 May 2016 10:02:00 +0000</pubDate>
+                <itunes:duration>00:43:49</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-31-middlewares</link>
+            </item>
+                    <item>
+                <title>Episode 30: ...</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Stuff</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave talk about Beau's recent trip to Cornwall, some family stuff like schools, Linux binaries on windows, parallelshell woes, cloud formation woes and FounderDating.com
+
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/88174076-1124-4758-a076-21b7df7c4614/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/88174076-1124-4758-a076-21b7df7c4614/media/that-podcast-episode-30.mp3" length="22900658" type="audio/mp3"/>
+                <guid>88174076-1124-4758-a076-21b7df7c4614</guid>
+                <pubDate>Mon, 18 Apr 2016 21:03:00 +0000</pubDate>
+                <itunes:duration>00:38:02</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-30</link>
+            </item>
+                    <item>
+                <title>Episode 29: npm install left-pad</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Who needs a standard library?</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave talk about the recent left-pad kerfuffle in the javascript community.
+
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/374efd84-59c3-4ba8-a636-d7c131feb098/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/374efd84-59c3-4ba8-a636-d7c131feb098/media/that-podcast-episode-29-npm-install-left-pad.mp3" length="26274217" type="audio/mp3"/>
+                <guid>374efd84-59c3-4ba8-a636-d7c131feb098</guid>
+                <pubDate>Mon, 04 Apr 2016 20:24:00 +0000</pubDate>
+                <itunes:duration>00:43:40</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-29-npm-install-left-pad</link>
+            </item>
+                    <item>
+                <title>Episode 28: Work, Work, Work</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Catch up on work efforts</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave talk about some of their recent work efforts, Dave's first look at DynamoDB, other AWS services, migrating event streams, email integration with Context.io and the challenges of maintaining privacy with such systems.
+
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/9a3152d9-0975-4c56-b55d-a0459857112a/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/9a3152d9-0975-4c56-b55d-a0459857112a/media/that-podcast-episode-28-work-work-work.mp3" length="22481266" type="audio/mp3"/>
+                <guid>9a3152d9-0975-4c56-b55d-a0459857112a</guid>
+                <pubDate>Tue, 29 Mar 2016 08:48:00 +0000</pubDate>
+                <itunes:duration>00:37:20</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-28-work-work-work</link>
+            </item>
+                    <item>
+                <title>Episode 27: A little less Grumpy</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>And a little shorter than it should be</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave talk to Chris Hartjes, commonly known as the Grumpy Programmer.
+They talk about how Chris grew his personal brand to support his collection of
+educational products, testing and testing tools, frameworks and components and
+OpenCFP.
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/3a34d807-4783-4bed-8a2f-4cdf61576f19/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/3a34d807-4783-4bed-8a2f-4cdf61576f19/media/that-podcast-episode-27-a-little-less-grumpy.mp3" length="12276615" type="audio/mp3"/>
+                <guid>3a34d807-4783-4bed-8a2f-4cdf61576f19</guid>
+                <pubDate>Tue, 22 Mar 2016 21:34:00 +0000</pubDate>
+                <itunes:duration>00:20:20</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-27-a-little-less-grumpy</link>
+            </item>
+                    <item>
+                <title>Episode 26: Show me the Monii</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>I love That Podcast!</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave start a series of episodes discussing Beau's new startup, Monii. We talk briefly about the features and scope of their first product, before diving in to the details of the front-end tech stack.
+
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/293bc96d-4c27-41c5-af5b-e9093026c5d0/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/293bc96d-4c27-41c5-af5b-e9093026c5d0/media/that-podcast-episode-26-show-me-the-monii.mp3" length="36368997" type="audio/mp3"/>
+                <guid>293bc96d-4c27-41c5-af5b-e9093026c5d0</guid>
+                <pubDate>Wed, 09 Mar 2016 09:53:00 +0000</pubDate>
+                <itunes:duration>00:41:15</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-26-show-me-the-monii</link>
+            </item>
+                    <item>
+                <title>Episode 25: S02E01</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Beau and Dave catch up after a 5 month break. Beau has moved to the UK and is just about settled, Dave is much the same.</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave catch up after a 5 month break. Beau has moved to the UK and is just about settled, Dave is much the same.
+
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/1e690857-3a93-4388-87d0-7e2a822dae55/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/1e690857-3a93-4388-87d0-7e2a822dae55/media/that-podcast-episode-25-s02e01.mp3" length="21775954" type="audio/mp3"/>
+                <guid>1e690857-3a93-4388-87d0-7e2a822dae55</guid>
+                <pubDate>Fri, 04 Mar 2016 11:35:00 +0000</pubDate>
+                <itunes:duration>00:36:10</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-25-s02e01</link>
+            </item>
+                    <item>
+                <title>Episode 24: The last one... with a Friends themed title</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because Dave gets frustrated trying to think them up</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave talk about work, automating deployments and ops, running an (R)ELK
+stack on AWS, Reactiflux getting kicked off Slack, Dave's work being awarded
+some government funding, Phil Sturgeon, Symfony autowiring and the 3.0 release,
+Zend Expressive, Adobe Creative Suite on case-sensitive filesystems and You Can't
+Teach a Kid to Ride a Bike at a Seminar.
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/b40d9266-af8d-411f-8e5d-7ec279b38ff2/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/b40d9266-af8d-411f-8e5d-7ec279b38ff2/media/that-podcast-episode-24-the-last-one-with-a-friends-themed-title.mp3" length="33139390" type="audio/mp3"/>
+                <guid>b40d9266-af8d-411f-8e5d-7ec279b38ff2</guid>
+                <pubDate>Thu, 05 Nov 2015 08:00:00 +0000</pubDate>
+                <itunes:duration>00:55:06</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-24-the-last-one-with-a-friends-themed-title</link>
+            </item>
+                    <item>
+                <title>Episode 23: The one where we&#039;re in Manchester</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because #PHPNW15</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<div>Beau and Dave get together again, this time at PHPNW 2015. We talk about testing, Laravel's awesome container, chatops and security, react, before touching on docker and otto. Sorry to the listeners for the clicks, pops, whistles and background noise.&nbsp;</div>]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/5480e519-0744-4853-b5df-5e445f3bf4fa/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/5480e519-0744-4853-b5df-5e445f3bf4fa/media/that-podcast-episode-23-the-one-where-we-re-in-manchester.mp3" length="37671291" type="audio/mp3"/>
+                <guid>5480e519-0744-4853-b5df-5e445f3bf4fa</guid>
+                <pubDate>Tue, 13 Oct 2015 08:46:00 +0000</pubDate>
+                <itunes:duration>01:02:39</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-23-the-one-where-we-re-in-manchester</link>
+            </item>
+                    <item>
+                <title>Episode 22: The one where we&#039;re in London again</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>because it is symfony live London time again!</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<div>Beau and Dave get together at Symfony Live London for a quick catch up and chat with Matthias Noback. Sorry about audio quality, there's a bit of mic handling and swapping going on as we're out on location!&nbsp;</div>]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/04ddcd77-1a4a-4529-87b6-6a1b6297ea23/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/04ddcd77-1a4a-4529-87b6-6a1b6297ea23/media/that-podcast-episode-22-the-one-where-we-re-in-london-again.mp3" length="23044542" type="audio/mp3"/>
+                <guid>04ddcd77-1a4a-4529-87b6-6a1b6297ea23</guid>
+                <pubDate>Wed, 23 Sep 2015 20:04:00 +0000</pubDate>
+                <itunes:duration>00:31:35</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-22-the-one-where-we-re-in-london-again</link>
+            </item>
+                    <item>
+                <title>Episode 21: The one with all the screen time</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because you gotta start &#039;em early</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<div>Beau and Dave change gears and get to some family talk, discussing managing kids with devices and screen time, football/soccer, dance and swimming activities, Beau announces his new position with Monii.com, then the guys get back in their comfort zone and talk briefly about continuous integration services, docker and CQRS.&nbsp;</div>]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-55bfe01315405a030032d8cd/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-55bfe01315405a030032d8cd/media/that-podcast-episode-21-the-one-with-all-the-screen-time.mp3" length="54989374" type="audio/mp3"/>
+                <guid>https://www.signalleaf.com/podcasts/That-Podcast/55bfe01315405a030032d8cd</guid>
+                <pubDate>Mon, 10 Aug 2015 14:39:00 +0000</pubDate>
+                <itunes:duration>01:31:30</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-21-the-one-with-all-the-screen-time</link>
+            </item>
+                    <item>
+                <title>Episode 20: The one where we don&#039;t really prefer this over that</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>because who has time for reading every article</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<div>Beau and Dave get in to PSR-7 and how we might be doing middlewares, framework or no framework, container PSR or not and a whole bunch of other stuff as usual.</div>]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-55887f015cf92b0300e19858/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-55887f015cf92b0300e19858/media/that-podcast-episode-20-the-one-where-we-don-t-really-prefer-this-over-that.mp3" length="58930469" type="audio/mp3"/>
+                <guid>https://www.signalleaf.com/podcasts/That-Podcast/55887f015cf92b0300e19858</guid>
+                <pubDate>Fri, 26 Jun 2015 09:32:00 +0000</pubDate>
+                <itunes:duration>01:38:04</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-20-the-one-where-we-don-t-really-prefer-this-over-that</link>
+            </item>
+                    <item>
+                <title>Episode 19: The one where Taylor joins the conversation</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because we think he fits the mould</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<p>Some time ago Dave had the idea to bring <a href="https://twitter.com/taylorotwell">Taylor Otwell</a>, creator of <a href="http://laravel.com">Laravel</a>, on the show as he fit
+our general theme very well, he's a dad, a programmer, and is definitely an
+entrepreneur. Arrangements were made and since then, Beau has launched his first two Laravel apps and has
+started to use both <a href="http://forge.laravel.com">Forge</a> and <a href="http://envoyer.io">Envoyer</a>. Dave, too, has worked with
+Laravel a bit in the past, so it was a great time to Taylor on the show to talk life and shop.
+</p>
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-55789dd91b95b70300153951/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-55789dd91b95b70300153951/media/that-podcast-episode-19-the-one-where-taylor-joins-the-conversation.mp3" length="68033873" type="audio/mp3"/>
+                <guid>https://www.signalleaf.com/podcasts/That-Podcast/55789dd91b95b70300153951</guid>
+                <pubDate>Thu, 11 Jun 2015 08:31:41 +0000</pubDate>
+                <itunes:duration>01:53:15</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-19-the-one-where-taylor-joins-the-conversation</link>
+            </item>
+                    <item>
+                <title>Episode 18: The one where the basket dropped</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because if you want to make an omelette...</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave talk about podcast news, Star Wars, Mail and todo apps, putting
+all your eggs in one basket, AWS, PSR-7, splitting monolithic repositories for
+composer, boring technologies and recent projects and articles from the
+community.
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-5543f1d8b111c003003efb59/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-5543f1d8b111c003003efb59/media/that-podcast-episode-18-the-one-where-the-basket-dropped.mp3" length="66140511" type="audio/mp3"/>
+                <guid>https://www.signalleaf.com/podcasts/That-Podcast/5543f1d8b111c003003efb59</guid>
+                <pubDate>Fri, 01 May 2015 09:37:53 +0000</pubDate>
+                <itunes:duration>01:50:05</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-18-the-one-where-the-basket-dropped</link>
+            </item>
+                    <item>
+                <title>Episode 17: The one where The Force Awakens</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because who doesn&#039;t like Star Wars...</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<div>Beau and Dave get through the usual roundup, before getting in to the Star Wars universe. They talk the upcoming movie and the teaser trailer, Star Wars Rebels, The Clone Wars, how their kids are liking Star Wars and Star Wars canon. They then get back to the usual roundup. This episode was definitely not distributed by 20th Century Fox.&nbsp;</div>]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-552bde5cddc93203005716dd/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-552bde5cddc93203005716dd/media/that-podcast-episode-17-the-one-where-the-force-awakens.mp3" length="60801360" type="audio/mp3"/>
+                <guid>https://www.signalleaf.com/podcasts/That-Podcast/552bde5cddc93203005716dd</guid>
+                <pubDate>Tue, 14 Apr 2015 14:36:00 +0000</pubDate>
+                <itunes:duration>01:41:11</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-17-the-one-where-the-force-awakens</link>
+            </item>
+                    <item>
+                <title>Episode 16: The one with HTTP/2</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because HTTP/1.1 isn&#039;t good enough anymore, apparently.</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<div>Beau and Dave catch up on their latest happenings and talk about HTTP/2, what makes it different and how we understand it could change the way we do things.&nbsp;</div>]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-55157e58298277030089d976/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-55157e58298277030089d976/media/that-podcast-episode-16-the-one-with-http-2.mp3" length="64326432" type="audio/mp3"/>
+                <guid>https://www.signalleaf.com/podcasts/That-Podcast/55157e58298277030089d976</guid>
+                <pubDate>Fri, 27 Mar 2015 16:02:00 +0000</pubDate>
+                <itunes:duration>01:47:04</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-16-the-one-with-http-2</link>
+            </item>
+                    <item>
+                <title>Episode 15: The first one where we follow-up on our goals for 2015</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because we&#039;ve made good on them so far...</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<div>Beau and Dave discuss Beau's recent trip to PHP Benelux, That Podcast Merchandise, our progress with our newly formed habits for 2015, fitness, finances, writing, reading, Superbowl and family things.&nbsp;</div>]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-54d3ec475c52c003003c9743/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-54d3ec475c52c003003c9743/media/that-podcast-episode-15-the-first-one-where-we-follow-up-on-our-goals-for-2015.mp3" length="56925997" type="audio/mp3"/>
+                <guid>https://www.signalleaf.com/podcasts/That-Podcast/54d3ec475c52c003003c9743</guid>
+                <pubDate>Thu, 05 Feb 2015 10:29:00 +0000</pubDate>
+                <itunes:duration>01:34:44</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-15-the-first-one-where-we-follow-up-on-our-goals-for-2015</link>
+            </item>
+                    <item>
+                <title>Episode 14: The one with some accountability</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because you can only make lifestyle changes in January</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave welcome in the new year with discussions on their plans for 2015, including health and fitness, martial arts, managing finances, building reputation, the sculpin community, Beau and Rebekah's new #ossart project and various other things.
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-54c01a64368d58030014532b/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-54c01a64368d58030014532b/media/that-podcast-episode-14-the-one-with-some-accountability.mp3" length="127165583" type="audio/mp3"/>
+                <guid>https://www.signalleaf.com/podcasts/That-Podcast/54c01a64368d58030014532b</guid>
+                <pubDate>Wed, 21 Jan 2015 09:29:00 +0000</pubDate>
+                <itunes:duration>01:45:54</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-14-the-one-with-some-accountability</link>
+            </item>
+                    <item>
+                <title>Episode 13: The one to cap 2014</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because it is the last episode of the year, yo!</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave wrap up 2014 discussing a bunch of stuff. Dave was too excited about Christmas to write something more descriptive for this sentence. This one too.
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-549ad9c608c7ce0200cfa20a/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-549ad9c608c7ce0200cfa20a/media/that-podcast-episode-13-the-one-to-cap-2014.mp3" length="123645254" type="audio/mp3"/>
+                <guid>https://www.signalleaf.com/podcasts/That-Podcast/549ad9c608c7ce0200cfa20a</guid>
+                <pubDate>Wed, 24 Dec 2014 15:19:00 +0000</pubDate>
+                <itunes:duration>01:42:58</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-13-the-one-to-cap-2014</link>
+            </item>
+                    <item>
+                <title>Episode 12: The one where we find the time to discuss not finding the time</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because what we both really needed was to spend an hour or so recording a podcast</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave take time out of there busy schedules to discuss what they've been up to recently and get in to the how they do or don't find the time for side projects and open source, in and around work and family.
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-548a1f5a7013d402005ac6ba/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-548a1f5a7013d402005ac6ba/media/that-podcast-episode-12-the-one-where-we-find-the-time-to-discuss-not-finding-the-time.mp3" length="134426071" type="audio/mp3"/>
+                <guid>https://www.signalleaf.com/podcasts/That-Podcast/548a1f5a7013d402005ac6ba</guid>
+                <pubDate>Thu, 11 Dec 2014 10:48:00 +0000</pubDate>
+                <itunes:duration>01:51:57</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-12-the-one-where-we-find-the-time-to-discuss-not-finding-the-time</link>
+            </item>
+                    <item>
+                <title>Episode 11: The one that Dave thought was kinda wishy washy</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because we didn&#039;t really get to our main topic</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<div>Beau and Dave have officially crossed beyond the 10 episode milestone but were forced to keep things short because of various scheduling conflicts. Oddly enough, the actual topic of the episode was supposed to be along the lines of "making the time for projects and things" so that should make for a fun episode 12. That will be so meta. This time, though, they discuss what it looks like for podcast co-hosts to not always get along, colour blindness, recent and upcoming PHP conferences, PHP-FIG, recent happenings at work, and more fun encryption stuff. For those of you who like them to keep it short, this one is for you!&nbsp;</div>]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-54764bd8c6903e02003e3fdc/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-54764bd8c6903e02003e3fdc/media/that-podcast-episode-11-the-one-that-dave-thought-was-kinda-wishy-washy.mp3" length="93826402" type="audio/mp3"/>
+                <guid>https://www.signalleaf.com/podcasts/That-Podcast/54764bd8c6903e02003e3fdc</guid>
+                <pubDate>Wed, 26 Nov 2014 09:53:00 +0000</pubDate>
+                <itunes:duration>01:18:07</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-11-the-one-that-dave-thought-was-kinda-wishy-washy</link>
+            </item>
+                    <item>
+                <title>Episode 10: The one with the &quot;best practices&quot;</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>... and the big 10 episode milestone!</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<div>Beau and Dave catch up on just about everything, before discussing the recent preview of the Official Symfony Best Practices document.&nbsp;</div>]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-546512dd996d8a020009fdb1/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-546512dd996d8a020009fdb1/media/that-podcast-episode-10-the-one-with-the-best-practices.mp3" length="131712987" type="audio/mp3"/>
+                <guid>https://www.signalleaf.com/podcasts/That-Podcast/546512dd996d8a020009fdb1</guid>
+                <pubDate>Thu, 13 Nov 2014 08:21:00 +0000</pubDate>
+                <itunes:duration>01:49:45</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-10-the-one-with-the-best-practices</link>
+            </item>
+                    <item>
+                <title>Episode 9: The one that wasn&#039;t invented here</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because NIH hasn&#039;t been talked about enough lately.</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<div>Beau and Dave give updates on their recent shenanigans, conferences, health, talk about the NIH and cloning discussions that have been had recently in the community, side projects, games, and two factor auth.&nbsp;</div>]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-54525bf95db9de02000a1718/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-54525bf95db9de02000a1718/media/that-podcast-episode-9-the-one-that-wasn-t-invented-here.mp3" length="128071000" type="audio/mp3"/>
+                <guid>https://www.signalleaf.com/podcasts/That-Podcast/54525bf95db9de02000a1718</guid>
+                <pubDate>Thu, 30 Oct 2014 03:40:00 +0000</pubDate>
+                <itunes:duration>01:46:43</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-9-the-one-that-wasn-t-invented-here</link>
+            </item>
+                    <item>
+                <title>Episode 8: The one where PSR-0 is dead</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because controversial titles bring all the hits.</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave are back together for another chat, covering conference talks, shellshock, Linux (on floppies), PHP Jeopardy and the marketing machine that is Jeremy Mikola, PHP-FIG, learning about AngularJS with CodeSchool.com and working with the TV on.
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-54384cb88e94cc0200939db6/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-54384cb88e94cc0200939db6/media/that-podcast-episode-8-the-one-where-psr-0-is-dead.mp3" length="101556748" type="audio/mp3"/>
+                <guid>https://www.signalleaf.com/podcasts/That-Podcast/54384cb88e94cc0200939db6</guid>
+                <pubDate>Fri, 10 Oct 2014 09:19:06 +0000</pubDate>
+                <itunes:duration>01:24:37</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-8-the-one-where-psr-0-is-dead</link>
+            </item>
+                    <item>
+                <title>Episode 7.5: The Short One in London</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because we pretty much had to!</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave recap SymfonyLive London 2014 in their first live in person recording.
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-542874c10d0fdf0200ba2d3b/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-542874c10d0fdf0200ba2d3b/media/that-podcast-episode-7-5-the-short-one-in-london.mp3" length="35372431" type="audio/mp3"/>
+                <guid>https://www.signalleaf.com/podcasts/That-Podcast/542874c10d0fdf0200ba2d3b</guid>
+                <pubDate>Sun, 28 Sep 2014 09:08:38 +0000</pubDate>
+                <itunes:duration>00:29:28</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-7-5-the-short-one-in-london</link>
+            </item>
+                    <item>
+                <title>Episode 7: The one where we didn&#039;t even bother with a topic</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Because why would we?</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<div>That's right, Beau and Dave are back! After what turned out to be a whole month since their last episode, the spend some time catching up on a bunch of things that have gone on in that time. Most importantly, Dave explains why dogs need passports. Who knew? Plus some other techy things. They keep it a little shorter than usual (only an hour and a half, yo!) on account of Dave not feeling so well. Also, Dave quits That Podcast because nobody has ever used his awesome voicemail app. Oh wait, no, that is a lie. He didn't quit. The other part was true about nobody leaving a voicemail, though. It makes them both sad.&nbsp;</div>]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-5410716f6145e70200412c6f/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-5410716f6145e70200412c6f/media/that-podcast-episode-7-the-one-where-we-didn-t-even-bother-with-a-topic.mp3" length="113073644" type="audio/mp3"/>
+                <guid>https://www.signalleaf.com/podcasts/That-Podcast/5410716f6145e70200412c6f</guid>
+                <pubDate>Wed, 10 Sep 2014 03:46:00 +0000</pubDate>
+                <itunes:duration>01:34:13</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-7-the-one-where-we-didn-t-even-bother-with-a-topic</link>
+            </item>
+                    <item>
+                <title>Episode 6: The One Where We Didn&#039;t Even Get to Our Scheduled Topic</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Lots of updates and discussion</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<div>Beau and Dave give updates on all sorts of things. So much so, they manage to not even get to the topic they actually expected to talk about. Fun times!&nbsp;</div>]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-53e14e9a5f9bf10200ec6ac0/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-53e14e9a5f9bf10200ec6ac0/media/that-podcast-episode-6-the-one-where-we-didn-t-even-get-to-our-scheduled-topic.mp3" length="148551627" type="audio/mp3"/>
+                <guid>https://www.signalleaf.com/podcasts/That-Podcast/53e14e9a5f9bf10200ec6ac0</guid>
+                <pubDate>Tue, 05 Aug 2014 10:13:00 +0000</pubDate>
+                <itunes:duration>02:03:47</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-6-the-one-where-we-didn-t-even-get-to-our-scheduled-topic</link>
+            </item>
+                    <item>
+                <title>Episode 5: The One Where Everyone Is Going to London</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Beau and Dave discuss a lot of recent goings on before a little talk about pair programming</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave discuss having been selected to Symfony Live London and how they
+plan to bring their families with them so everyone can hang out in person for
+the first time. Beau discusses his other upcoming talks including Nomad PHP EU
+and php[world] and Dave talks a bit about his pair programming setup. Both agree
+that rewriting code from another project is a great way to really understand how
+the thing ticks.
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-53ced1d6292a4202006095ad/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-53ced1d6292a4202006095ad/media/that-podcast-episode-5-the-one-where-everyone-is-going-to-london.mp3" length="133765003" type="audio/mp3"/>
+                <guid>https://www.signalleaf.com/podcasts/That-Podcast/53ced1d6292a4202006095ad</guid>
+                <pubDate>Tue, 22 Jul 2014 10:03:00 +0000</pubDate>
+                <itunes:duration>01:51:28</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-5-the-one-where-everyone-is-going-to-london</link>
+            </item>
+                    <item>
+                <title>Episode 4: The One where ORMs are Dead</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Beau and Dave discuss Beau&#039;s recent exploration into the DDD world, leading him away from ORMs and into Events.</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[<div>Beau and Dave discuss Beau's recent exploration into the DDD world, leading him away from ORMs and into Events.&nbsp;</div>]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-53b1dfdbe0ce130200000004/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-53b1dfdbe0ce130200000004/media/that-podcast-episode-4-the-one-where-orms-are-dead.mp3" length="102904187" type="audio/mp3"/>
+                <guid>https://www.signalleaf.com/podcasts/That-Podcast/53b1dfdbe0ce130200000004</guid>
+                <pubDate>Mon, 30 Jun 2014 10:29:00 +0000</pubDate>
+                <itunes:duration>01:25:45</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-4-the-one-where-orms-are-dead</link>
+            </item>
+                    <item>
+                <title>Episode 3: The One with Paul talking about Action-Domain-Responder</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Beau and Dave discuss ADR with their first guest, Paul M. Jones.</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave have their first guest, Paul M. Jones, who asked if he could join
+them to discuss their thoughts on his Action-Domain-Responder pattern after they
+mentioned it on the previous episode. In addition to discussing ADR, they
+discuss Paul's book, the process of writing a book, and similarities between
+writing books, blogging, and talks for conferences.
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-539f40d72b5cc10200000004/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-539f40d72b5cc10200000004/media/that-podcast-episode-3-the-one-with-paul-talking-about-action-domain-responder.mp3" length="122090553" type="audio/mp3"/>
+                <guid>https://www.signalleaf.com/podcasts/That-Podcast/539f40d72b5cc10200000004</guid>
+                <pubDate>Mon, 16 Jun 2014 07:35:15 +0000</pubDate>
+                <itunes:duration>01:41:44</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-3-the-one-with-paul-talking-about-action-domain-responder</link>
+            </item>
+                    <item>
+                <title>Episode 2: The One with the Lone Wolves</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Beau and Dave discuss being lone wolf developers</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[Beau and Dave recap their experience of launching That Podcast, Beau discusses his php[tek] experience, both discuss Paul M. Jones refinement on MVC (Action-Domain-Responder pattern) and then get down to discussing their experiences as lone wolf developers.
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-538e2bdbaaba990200000004/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-538e2bdbaaba990200000004/media/that-podcast-episode-2-the-one-with-the-lone-wolves.mp3" length="123797208" type="audio/mp3"/>
+                <guid>https://www.signalleaf.com/podcasts/That-Podcast/538e2bdbaaba990200000004</guid>
+                <pubDate>Tue, 03 Jun 2014 08:50:00 +0000</pubDate>
+                <itunes:duration>01:43:09</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-2-the-one-with-the-lone-wolves</link>
+            </item>
+                    <item>
+                <title>Episode 1: The First One</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Beau and Dave discuss their reasons for starting a podcast and touch a bit on TDD being dead (or not).</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-537df075d969d40200000011/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-537df075d969d40200000011/media/that-podcast-episode-1-the-first-one.mp3" length="104341731" type="audio/mp3"/>
+                <guid>https://www.signalleaf.com/podcasts/That-Podcast/537df075d969d40200000011</guid>
+                <pubDate>Thu, 22 May 2014 01:16:58 +0000</pubDate>
+                <itunes:duration>01:26:57</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-1-the-first-one</link>
+            </item>
+                    <item>
+                <title>Episode 0: The Short Practice One</title>
+                <itunes:author>Beau Simensen &amp; Dave Marshall</itunes:author>
+                                    <itunes:subtitle>Quick little recording demo.</itunes:subtitle>
+                                <itunes:explicit>no</itunes:explicit>
+                <itunes:summary>
+                    <![CDATA[This was a quick technology demo we did in order to test out the recording process. It is a nice bit of legacy so we keep it around to remember where we started.
+]]>
+                </itunes:summary>
+                                    <itunes:image href="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-536aaf42a7f1f80200000033/itunes-card/itunes.jpg"/>
+                                <enclosure url="https://s3.amazonaws.com/thatpodcast-content/episodes/https-www-signalleaf-com-podcasts-that-podcast-536aaf42a7f1f80200000033/media/that-podcast-episode-0-the-short-practice-one.mp3" length="5476100" type="audio/mp3"/>
+                <guid>https://www.signalleaf.com/podcasts/That-Podcast/536aaf42a7f1f80200000033</guid>
+                <pubDate>Wed, 07 May 2014 10:27:00 +0000</pubDate>
+                <itunes:duration>00:05:42</itunes:duration>
+                <link>https://thatpodcast.io/episodes/episode-0-the-short-practice-one</link>
+            </item>
+            </channel>
+</rss>
